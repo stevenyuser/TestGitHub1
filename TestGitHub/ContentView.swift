@@ -12,6 +12,7 @@ struct ContentView: View {
         Text("Hello, git!")
             .padding()
         Color(UIColor.red)
+        Text("Hello")
     }
 }
 
